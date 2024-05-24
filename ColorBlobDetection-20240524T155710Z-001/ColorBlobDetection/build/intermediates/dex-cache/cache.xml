@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\opencvtest\ColorBlobDetection\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\opencvtest\ColorBlobDetection\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_24b3057a9c58123b6d174be4b65aaf42c80b5521.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mohamed\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\opencvtest\ColorBlobDetection\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_c11b95220119c2ad82c1e51ec503cab6dd279b47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\opencvtest\ColorBlobDetection\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\opencvtest\ColorBlobDetection\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_ee66632c0d41c327684d33bad1a8a8252bbcf7ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\opencvtest\ColorBlobDetection\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\opencvtest\ColorBlobDetection\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_03d2f57a6784dd194733daf1682c73b751ff42c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\opencvtest\ColorBlobDetection\app\build\intermediates\exploded-aar\ColorBlobDetection\openCVLibrary249\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7d18dc1afc3dc74e972c1941681e0b10746d3ad5">
+        <dex dex="D:\opencvtest\ColorBlobDetection\app\build\intermediates\pre-dexed\debug\ColorBlobDetection-openCVLibrary249-unspecified_141be3753a97f14a325e327228f6852cca9ca0b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\opencvtest\ColorBlobDetection\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\opencvtest\ColorBlobDetection\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_45e9e3fda9e31f03c1c3cc461249adc56b9bc95d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\opencvtest\ColorBlobDetection\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\opencvtest\ColorBlobDetection\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_814e49991443b4d03b39ba12b1dcbef930ca734f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\opencvtest\ColorBlobDetection\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\opencvtest\ColorBlobDetection\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_9f6a7785f3d7fa67c075c8d1b8259609da21173e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\opencvtest\ColorBlobDetection\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\opencvtest\ColorBlobDetection\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_030911717daf2f648055ae5c6ebe9e70a9201a8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\opencvtest\ColorBlobDetection\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\opencvtest\ColorBlobDetection\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_7eaa4634b9217cab970caaa7effc66b24d33e3e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\opencvtest\ColorBlobDetection\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\opencvtest\ColorBlobDetection\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_25c8500ecd97d9a7f5100750c155f9a65920dd36.jar" />
+    </item>
+
+</items>
